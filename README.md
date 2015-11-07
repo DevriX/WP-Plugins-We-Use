@@ -4,6 +4,10 @@ A list of WordPress plugins we use occasionally for different projects
 
 ## MailChimp for WordPress 
 
+## Query Monitor
+
+## DX localhost
+
 ## BackUpWordPress
 
 ## Post Duplicator
