@@ -20,6 +20,10 @@ A list of WordPress plugins we use occasionally for different projects
 
 ## Syntax Highlighter for WordPress
 
+## Members
+
+## User Switching
+
 # Selective Plugins
 
 ## Advanced Custom Fields Pro
