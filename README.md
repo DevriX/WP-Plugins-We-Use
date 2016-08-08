@@ -8,6 +8,9 @@ A list of WordPress plugins we use occasionally for different projects
 
 ## DX localhost
 
+## DX Testimonials
+https://github.com/DevriX/DX-Testimonials is a basic boilerplate for creating Custom Post Type for Testimonials
+
 ## BackUpWordPress
 
 ## Post Duplicator
